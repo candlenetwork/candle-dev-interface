@@ -90,13 +90,13 @@
 </style>
 
 <svelte:head>
-  <title>Radicle &ndash; Home</title>
+  <title>CNDL &ndash; Home</title>
 </svelte:head>
 
 <main>
   <div class="blurb">
     <p use:twemoji>
-      Radicle 🌱 enables developers 🧙 to securely collaborate 🔐 on software
+      CNDL 🌱 enables developers 🧙 to securely collaborate 🔐 on software
       over a peer-to-peer network 🌐 built on Git.
     </p>
   </div>
